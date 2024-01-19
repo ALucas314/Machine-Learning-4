@@ -36,6 +36,6 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 ## 🚀 Link do site copie e cole no navegador!
 
 ```
-https://pokedex-api-lyart.vercel.app/
+https://machine-learning-4-xkok.vercel.app/
 ```
 
